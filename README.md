@@ -10,5 +10,8 @@ The drawing of cabinet production drawing of computer interlocking system is an 
 The software uses the EXECL configuration file to simply configure the cabinet requirements of a project. In addition, the device name and height in the EXECL configuration file can be directly selected from the drop-down menu. In addition, you can enter remarks for each device, that is, write descriptions next to each device in the cabinet drawing. 
 将各种设备的标准图纸放在DWG文件夹中，软件生成机柜图纸时会自动调用DWG文件夹中的标准图纸。  
 The standard drawings of various devices are placed in the DWG folder, and the standard drawings in the DWG folder will be automatically invoked when the software generates the cabinet drawings.  
+由于配置文件无法上传，放置一个截图，如果有需要可以直接联系我  
+![image](https://github.com/60464/GenCabinetDWGFile/assets/47840658/80e285d9-d9f2-4878-a8fc-be88d453622f)
+
 
 
